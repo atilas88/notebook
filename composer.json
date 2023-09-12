@@ -1,0 +1,15 @@
+{
+	"name": "nextcloud/notebook",
+	"description": "Single notebook app",
+	"authors": [
+		{
+			"name": "Orelvys García Guzmán"
+		}
+	],
+    "require": {
+        "php": "^8.0"
+    },	
+	"require-dev": {
+		"phpunit/phpunit": "^9.5"
+	}
+}
