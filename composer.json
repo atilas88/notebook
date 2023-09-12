@@ -1,6 +1,6 @@
 {
 	"name": "nextcloud/notebook",
-	"description": "Single notebook app",
+	"description": "Single notebook app for nextcloud",
 	"authors": [
 		{
 			"name": "Orelvys García Guzmán"
